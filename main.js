@@ -4,7 +4,7 @@ const maksPerMenu = 50;
 // harga dipegang di sini, bukan dibaca dari halaman
 const daftarMenu = {
   ayam: { nama: 'Ayam Bakar', harga: 17000 },
-  bebek: { nama: 'Bebek Bakar', harga: 22000 },
+  bebek: { nama: 'Bebek Bakar', harga: 25000 },
   tahu: { nama: 'Tahu Bakar', harga: 2000 },
   tempe: { nama: 'Tempe Bakar', harga: 2000 }
 };
