@@ -9,7 +9,7 @@ const daftarMenu = {
   tempe: { nama: 'Tempe Bakar', harga: 2000 }
 };
 
-const semuaMenu = document.querySelectorAll('.menu-card');
+const semuaMenu = document.querySelectorAll('.item');
 const keranjang = document.getElementById('keranjang');
 const linkPesan = document.getElementById('linkPesan');
 const totalItem = document.getElementById('totalItem');
